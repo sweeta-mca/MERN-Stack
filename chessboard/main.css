@@ -1,0 +1,28 @@
+.outer{
+    background-color: black;
+    width: fit-content;
+    margin: auto;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+.container{
+    border: wheat;
+    border-style: inset;
+}
+
+.row-container{
+    display: flex;
+}
+
+.column-container{
+    width: 70px;
+    height: 70px;
+}
+
+.odd{
+background: white;
+}
+.even{
+background: black;
+}
